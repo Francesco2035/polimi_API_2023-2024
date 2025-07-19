@@ -1,0 +1,5 @@
+3 1000
+rifornimento farina 100 3 farina 70 2
+aggiungi_ricetta torta_della_nonna farina 1
+aggiungi_ricetta torta_paradiso farina 1
+ordine torta_della_nonna 1

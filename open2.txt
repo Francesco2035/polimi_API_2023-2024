@@ -1,0 +1,22 @@
+20 100000
+aggiungi_ricetta recipe0 ingredient0 1
+rifornimento ingredient0 10000 10000
+ordine recipe0 8
+ordine recipe0 40
+ordine recipe0 89
+ordine recipe0 58
+ordine recipe0 79
+ordine recipe0 71
+ordine recipe0 38
+ordine recipe0 54
+ordine recipe0 43
+ordine recipe0 27
+ordine recipe0 51
+ordine recipe0 70
+ordine recipe0 89
+ordine recipe0 46
+ordine recipe0 15
+ordine recipe0 76
+ordine recipe0 17
+ordine recipe0 15
+ordine recipe0 53

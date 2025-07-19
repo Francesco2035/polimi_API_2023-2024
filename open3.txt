@@ -1,0 +1,11 @@
+5 100
+aggiungi_ricetta recipe0 ingredient0 1
+rifornimento ingredient0 10 6 ingredient0 10 6 ingredient0 10 6 ingredient0 10 7
+ordine recipe0 5
+ordine recipe0 5
+ordine recipe0 5
+ordine recipe0 6
+ordine recipe0 6
+ordine recipe0 7
+ordine recipe0 8
+rifornimento ingredient0 15 11
