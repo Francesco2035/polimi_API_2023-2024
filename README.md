@@ -137,7 +137,7 @@ Comprehensive **open test cases** are available in the `open_tests/` directory.
 
 # Compare output with expected results
 ./app < open_tests/open5.txt > output.txt
-diff output.txt expected_results/open5_expected.txt
+diff output.txt open_tests/open5.output.txt
 ```
 
 ---
