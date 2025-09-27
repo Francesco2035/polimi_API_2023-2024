@@ -1,4 +1,4 @@
-content = """# 🍰 Industrial Pastry Management System
+###🍰 Industrial Pastry Management System
 
 > A simulation system for managing an industrial pastry shop, implementing efficient data structures and algorithms for order management, inventory control, and delivery scheduling.
 
