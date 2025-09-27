@@ -92,6 +92,7 @@ The system operates in **discrete time steps** and handles multiple concurrent o
 │   └── Specifica_API_23-24.pdf
 ├── open_tests/                 # Provided test cases and expected results
 └── README.md                   # Documentation
+```
 
 ## System Requirements
 
