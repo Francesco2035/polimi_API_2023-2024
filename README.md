@@ -44,15 +44,15 @@ The system operates in **discrete time steps** and handles multiple concurrent o
 
 ### Grade Distribution Table
 
-| Problem | Test Name | Time Limit | Memory Limit | Type  | File    | Token | Grade |
-|---------|-----------|------------|--------------|-------|---------|-------|-------|
-| Open    | Open      | 45,000 s   | 150 MiB      | Batch | Open.c  | Yes   | 30L   |
-| 18      | 18        | 14,000 s   | 35.0 MiB     | Batch | 18.c    | Yes   | 30L   |
-| 21      | 21        | 11,500 s   | 30.0 MiB     | Batch | 21.c    | Yes   | 30L   |
-| 24      | 24        | 9,000 s    | 25.0 MiB     | Batch | 24.c    | Yes   | 30L   |
-| 27      | 27        | 6,500 s    | 20.0 MiB     | Batch | 27.c    | Yes   | 30L   |
-| 30      | 30        | 4,000 s    | 15.0 MiB     | Batch | 30.c    | Yes   | 30L   |
-| Lode    | Lode      | 1,500 s    | 14.0 MiB     | Batch | Lode.c  | Yes   | 30L   |
+| Problem | Test Name | Time Limit | Memory Limit | 
+|---------|-----------|------------|--------------|
+| Open    | Open      | 45,000 s   | 150 MiB      | 
+| 18      | 18        | 14,000 s   | 35.0 MiB     |  
+| 21      | 21        | 11,500 s   | 30.0 MiB     | 
+| 24      | 24        | 9,000 s    | 25.0 MiB     | 
+| 27      | 27        | 6,500 s    | 20.0 MiB     | 
+| 30      | 30        | 4,000 s    | 15.0 MiB     | 
+| Lode    | Lode      | 1,500 s    | 14.0 MiB     | 
 
 ---
 
