@@ -40,7 +40,7 @@ The system operates in **discrete time steps** and handles multiple concurrent o
 
 ## Grade Achievement
 
-**Final Grade: 30L (30 cum laude)** – Maximum grade with honors 🎉
+**Final Grade: 30L (30 cum laude)**
 
 ### Grade Distribution Table
 
